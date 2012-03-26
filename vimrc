@@ -22,7 +22,6 @@ syntax enable
 
 set cf  " Enable error files & error jumping.
 set clipboard+=unnamed  " Yanks go on clipboard instead.
-set paste
 set history=256  " Number of things to remember in history.
 set autowrite  " Writes on make/shell commands
 set ruler  " Ruler on
@@ -115,7 +114,7 @@ map <C-l> <C-w>l
 map <leader>c :ConqueTermSplit bash
 map <leader>cv :ConqueTermVSplit bash
 
-
+"set paste
 
 
 

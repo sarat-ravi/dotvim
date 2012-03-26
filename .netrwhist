@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/saasbook/.vim'
 let g:netrw_dirhist_2='/home/saratt/.ubuntuConfig'
+let g:netrw_dirhist_3='/home/saratt/Documents/cs169/typo/app/models/article'
+let g:netrw_dirhist_4='/home/saratt/Documents/cs169/typo/app/models/feedback'
+let g:netrw_dirhist_5='/home/saratt/Documents/cs169/typo/app/views'
+let g:netrw_dirhist_6='/home/saratt/Documents/cs169/typo/app/models/article'
+let g:netrw_dirhist_7='/home/saratt/workspace/.metadata'
+let g:netrw_dirhist_8='/home/saratt/Documents/cs169/typo/app/models/article'
