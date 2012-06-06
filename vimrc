@@ -21,7 +21,7 @@ let g:rails_default_file='config/database.yml'
 syntax enable
 
 set cf  " Enable error files & error jumping.
-set clipboard+=unnamed  " Yanks go on clipboard instead.
+set clipboard=unnamedplus  " Yanks go on clipboard instead.
 set history=256  " Number of things to remember in history.
 set autowrite  " Writes on make/shell commands
 set ruler  " Ruler on
