@@ -116,6 +116,10 @@ map <leader>cv :ConqueTermVSplit bash
 
 "set paste
 
+if has("mouse")
+  set mouse=a
+endif
+
 
 
 
