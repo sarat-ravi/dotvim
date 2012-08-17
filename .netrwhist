@@ -1,9 +1,9 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/saratt/Documents/cs169/crowdAssistant/config'
-let g:netrw_dirhist_2='/home/saratt/Documents/cs169/crowdAssistant/app/assets'
-let g:netrw_dirhist_3='/home/saratt/Documents/openML/src/util/opencv/release/apps'
-let g:netrw_dirhist_4='/home/saratt/Documents/openML/src/util/opencv/data/haarcascades'
-let g:netrw_dirhist_5='/home/saratt/.wine/drive_c/Program Files'
-let g:netrw_dirhist_6='/Users/saratt/.vim'
-let g:netrw_dirhist_7='/Users/saratt/lm-code/external/xtvd-tools/xtvd'
+let g:netrw_dirhist_1='/Users/saratt/lm-code/dj_www/livemagic/templatetags'
+let g:netrw_dirhist_2='/Users/saratt/lm-code/dj_www/static/images'
+let g:netrw_dirhist_3='/Users/saratt/lm-code/dj_www/livemagic/templatetags'
+let g:netrw_dirhist_4='/Users/saratt/Documents/Intersect/src/featureExtractors/text'
+let g:netrw_dirhist_5='/Users/saratt/Documents/Intersect/intersect'
+let g:netrw_dirhist_6='/Users/saratt/lm-code/dj_www/livemagic/templatetags'
+let g:netrw_dirhist_7='/Users/saratt/lm-code-ESPN_demo/dj_www'
