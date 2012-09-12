@@ -11,6 +11,9 @@ let g:miniBufExplMapWindowNavArrows = 1
 let g:miniBufExplMapCTabSwitchBufs = 1
 let g:miniBufExplModSelTarget = 1
 
+" Set Tab Settings
+set tabstop=4 shiftwidth=4 expandtab
+
 " alt+n or alt+p to navigate between entries in QuickFix
 map <silent> <m-p> :cp <cr>
 map <silent> <m-n> :cn <cr>
@@ -33,7 +36,6 @@ set timeoutlen=250  " Time to wait after ESC (default causes an annoying delay)
 " Formatting
 set ts=4  " Tabs are 2 spaces
 set bs=2  " Backspace over everything in insert mode
-set shiftwidth=2  " Tabs under smart indent
 set nocp incsearch
 set cinoptions=:0,p0,t0
 set cinwords=if,else,while,do,for,switch,case

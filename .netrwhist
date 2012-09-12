@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/saratt/lm-code/dj_www/livemagic/templatetags'
 let g:netrw_dirhist_2='/Users/saratt/lm-code/dj_www/static/images'
 let g:netrw_dirhist_3='/Users/saratt/lm-code/dj_www/livemagic/templatetags'
@@ -7,3 +7,5 @@ let g:netrw_dirhist_4='/Users/saratt/Documents/Intersect/src/featureExtractors/t
 let g:netrw_dirhist_5='/Users/saratt/Documents/Intersect/intersect'
 let g:netrw_dirhist_6='/Users/saratt/lm-code/dj_www/livemagic/templatetags'
 let g:netrw_dirhist_7='/Users/saratt/lm-code-ESPN_demo/dj_www'
+let g:netrw_dirhist_8='/Users/saratt/Archive/BERKELEY/sophomore/SemII/cs70/CS70 Reader'
+let g:netrw_dirhist_9='/Users/saratt/Downloads/test'
