@@ -122,6 +122,11 @@ if has("mouse")
   set mouse=a
 endif
 
+"Map keys to copy and paste!! (Works for Mac OSX only)
+nmap <C-p> :set paste<CR>:r !pbpaste<CR>:set nopaste<CR>
+imap <C-p> <Esc>:set paste<CR>:r !pbpaste<CR>:set nopaste<CR>
+nmap <C-y> :.w !pbcopy<CR><CR>
+vmap <C-y> :w !pbcopy<CR><CR>
 
 
 
