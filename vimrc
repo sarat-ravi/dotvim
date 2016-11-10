@@ -128,6 +128,10 @@ imap <C-p> <Esc>:set paste<CR>:r !pbpaste<CR>:set nopaste<CR>
 nmap <C-y> :.w !pbcopy<CR><CR>
 vmap <C-y> :w !pbcopy<CR><CR>
 
+"Map 'jk' or 'kj' to the Escape key"
+imap jk <Esc>
+imap kj <Esc>
+
 
 
 
