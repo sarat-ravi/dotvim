@@ -5,6 +5,9 @@ filetype on  " Automatically detect file types.  set nocompatible  " no vi compa
 " Add recently accessed projects menu (project plugin)
 set viminfo^=\!
 
+" Mustache Settings
+let g:mustache_abbreviations = 1
+
 " Minibuffer Explorer Settings
 let g:miniBufExplMapWindowNavVim = 1
 let g:miniBufExplMapWindowNavArrows = 1
@@ -34,7 +37,7 @@ set timeoutlen=250  " Time to wait after ESC (default causes an annoying delay)
 " colorscheme vividchalk  " Uncomment this to set a default theme
 
 " Formatting
-set ts=4  " Tabs are 2 spaces
+set ts=4  " Tabs are 4 spaces
 set bs=2  " Backspace over everything in insert mode
 set nocp incsearch
 set cinoptions=:0,p0,t0
